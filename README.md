@@ -1,5 +1,5 @@
 # SiteApi
-Default website setup for backend
+Default java website backend
 
 Build With
 -Spring Boot
